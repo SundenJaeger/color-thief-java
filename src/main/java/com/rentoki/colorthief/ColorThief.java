@@ -16,13 +16,13 @@
  * available at http://lokeshdhakar.com/projects/color-thief/
  */
 
-package de.androidpit.colorthief;
+package com.rentoki.colorthief;
 
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
 import java.util.Arrays;
 
-import de.androidpit.colorthief.MMCQ.CMap;
+import com.rentoki.colorthief.MMCQ.CMap;
 
 public class ColorThief {
 

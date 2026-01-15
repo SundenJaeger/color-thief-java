@@ -16,15 +16,15 @@
  * available at http://lokeshdhakar.com/projects/color-thief/
  */
 
-package de.androidpit.colorthief.test;
+package com.rentoki.colorthief.test;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
 
 import javax.imageio.ImageIO;
 
-import de.androidpit.colorthief.ColorThief;
-import de.androidpit.colorthief.MMCQ.CMap;
+import com.rentoki.colorthief.ColorThief;
+import com.rentoki.colorthief.MMCQ.CMap;
 
 public class ColorThiefPerformanceTest {
 

@@ -16,7 +16,7 @@
  * available at http://lokeshdhakar.com/projects/color-thief/
  */
 
-package de.androidpit.colorthief;
+package com.rentoki.colorthief;
 
 import java.util.ArrayList;
 import java.util.Arrays;

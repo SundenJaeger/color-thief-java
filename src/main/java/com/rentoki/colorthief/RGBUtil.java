@@ -16,7 +16,7 @@
  * available at http://lokeshdhakar.com/projects/color-thief/
  */
 
-package de.androidpit.colorthief;
+package com.rentoki.colorthief;
 
 public class RGBUtil {
 
