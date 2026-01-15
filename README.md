@@ -1,3 +1,6 @@
+### Disclaimer
+This is a fork from the original repo by **[SvenWoltmann](https://github.com/SvenWoltmann/color-thief-java)**.
+
 # Color Thief - A Fast Java Implementation
 
 Grabs the dominant color or a representative color palette from an image.
